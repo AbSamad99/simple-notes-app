@@ -1,0 +1,10 @@
+.signup-form-style {
+  margin-top: 10px;
+  padding: 35px 0 0;
+  display: flex;
+  justify-content: center;
+}
+
+.signup-button-style {
+  margin-bottom: 10px;
+}

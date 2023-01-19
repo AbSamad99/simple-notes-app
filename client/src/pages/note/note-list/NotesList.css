@@ -1,0 +1,21 @@
+.notes-container {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.notes-page-title {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0 10px;
+}
+
+.notes-create-button {
+}
+
+.notes-list {
+  display: flex;
+  /* justify-content: space-between; */
+  flex-wrap: wrap;
+}

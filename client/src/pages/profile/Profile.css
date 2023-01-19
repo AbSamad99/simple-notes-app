@@ -1,0 +1,43 @@
+.profile-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile-details {
+  width: 40%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.profile-items {
+  margin: 5px 20px;
+}
+
+.profile-title {
+  font-size: larger;
+  font-weight: 600;
+}
+
+.profile-options {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.profile-options-items {
+  margin: 0 20px;
+}
+
+.profile-option-link {
+  text-decoration: none;
+  color: white;
+}
+
+.profile-option-link:hover {
+  color: white;
+}

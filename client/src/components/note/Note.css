@@ -1,0 +1,38 @@
+.note-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 4px;
+  padding: 10px;
+}
+
+.note-options-div {
+  align-self: flex-end;
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.note-title-options {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.note-title-description {
+  font-size: large;
+  font-weight: 500;
+}
+
+.note-title-actual {
+  padding: 0 2px;
+}
+
+.note-option {
+  cursor: pointer;
+  transform: scale(0.9);
+}
+
+.note-option:hover {
+  text-decoration: underline;
+}

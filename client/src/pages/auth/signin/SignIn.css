@@ -1,0 +1,14 @@
+.signin-form-style {
+  margin-top: 10px;
+  padding: 35px 0 0;
+  display: flex;
+  justify-content: center;
+}
+
+.signin-button-style {
+  margin-bottom: 10px;
+}
+
+.forgot-password {
+  transform: translateY(-0.3rem) scale(0.9);
+}

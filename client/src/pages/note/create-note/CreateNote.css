@@ -1,0 +1,19 @@
+.create-note-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.note-inputs {
+  padding: 20px;
+  width: 85%;
+}
+
+.create-note-button-style {
+  width: 25%;
+  margin: 0 10px;
+  font-size: larger;
+  align-self: center;
+}
